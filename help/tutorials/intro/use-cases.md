@@ -8,7 +8,7 @@ last-substantial-update: 2023-10-11T00:00:00Z
 jira: KT-14135
 thumbnail: 3424857.jpeg
 exl-id: 1e044431-2152-41da-8ac8-c706612c462a
-source-git-commit: 3c615f525f1d589af3220bdd8f2cd40894d8f829
+source-git-commit: 345c0c2d7bde403fff55ba25399360f1182900c5
 workflow-type: tm+mt
 source-wordcount: '31'
 ht-degree: 38%
@@ -17,6 +17,6 @@ ht-degree: 38%
 
 # Cas d’utilisation
 
-Découvrez les cas d’utilisation résolus par Mix Modeler. Pour plus d’informations, voir [Cas d’utilisation Mix Modeler](https://experienceleague.adobe.com/docs/mix-modeler/using/get-started/workflow.html) la documentation.
+Découvrez les cas d’utilisation résolus par Mix Modeler. Pour plus d’informations, voir la documentation [Cas d’utilisation de Mix Modeler](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow) .
 
->[!VIDEO](https://video.tv.adobe.com/v/3424857?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424857?learn=on&enablevpops)
