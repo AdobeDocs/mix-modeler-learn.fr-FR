@@ -4,7 +4,7 @@ description: Ensemble de vidéos et de tutoriels pour Adobe Mix Modeler.
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-source-git-commit: 3c615f525f1d589af3220bdd8f2cd40894d8f829
+source-git-commit: cb11a8eb8640282e849f6a096ef6e24635c58ced
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 12%
@@ -40,20 +40,20 @@ Adobe Mix Modeler aide les entreprises à mesurer, optimiser et planifier leurs 
     </a>
     </div>
     <p>
-    <em>Découvrez les principaux cas pratiques d’Adobe Mix Modeler</em>
+    <em>Découvrez les principaux cas d’utilisation de l’Adobe Mix Modeler</em>
     <p>
   </td>
   <td>
-    <a href="intro/user-workflow.md">
-      <img alt="image miniature du tutoriel &quot;Workflow utilisateur&quot;" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+    <a href="intro/demo.md">
+      <img alt="image miniature du tutoriel &quot;Démo de bout en bout&quot;" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
     </a>
     <div>
-      <a href="intro/user-workflow.md">
-    <strong>Workflow utilisateur</strong>
+      <a href="intro/demo.md">
+    <strong>Démo de bout en bout</strong>
     </a>
     </div>
     <p>
-    <em>Découvrez le workflow de base d’Adobe Mix Modeler</em>
+    <em>Voir une démonstration de bout en bout de l’Adobe Mix Modeler</em>
     <p>
   </td>
   <td>
@@ -66,7 +66,7 @@ Adobe Mix Modeler aide les entreprises à mesurer, optimiser et planifier leurs 
     </a>
     </div>
     <p>
-    <em>Découvrez les principaux composants de l’interface utilisateur d’Adobe Mix Modeler</em>
+    <em>Découvrez les composants clés de l’interface utilisateur de l’Adobe Mix Modeler</em>
     <p>
   </td>
 </tr>
