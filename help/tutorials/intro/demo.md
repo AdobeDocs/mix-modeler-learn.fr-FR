@@ -1,5 +1,5 @@
 ---
-title: Démonstration de bout en bout du Mix Modeler
+title: Démonstration complète de Mix Modeler
 description: Découvrez le workflow de bout en bout d’Adobe Mix Modeler.
 role: Developer, User
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Démonstration de bout en bout du Mix Modeler
+# Démonstration complète de Mix Modeler
 
-Voir une démonstration de bout en bout de l’Adobe Mix Modeler. Pour plus d’informations, voir la [documentation du Mix Modeler](https://experienceleague.adobe.com/en/docs/mix-modeler/using/overview).
+Visionnez une démonstration de bout en bout d’Adobe Mix Modeler. Pour plus d’informations, consultez la documentation de [Mix Modeler](https://experienceleague.adobe.com/en/docs/mix-modeler/using/overview).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440794/?learn=on&enablevpops)
