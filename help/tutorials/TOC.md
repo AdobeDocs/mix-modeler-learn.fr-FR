@@ -5,10 +5,10 @@ user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Mix Mod
 audience: all
 doc-type: video
 auto-video-transcripts: true
-source-git-commit: a0adf6fe046011f6394e993feb5e2282be66eec4
+source-git-commit: d671050ee37161860ac6a3c64c78595c4d80c5f5
 workflow-type: tm+mt
-source-wordcount: '34'
-ht-degree: 55%
+source-wordcount: '38'
+ht-degree: 52%
 
 ---
 
@@ -20,3 +20,5 @@ ht-degree: 55%
    + [Workflow de l’utilisateur](/help/tutorials/intro/user-workflow.md)
    + [Démonstration de bout en bout](/help/tutorials/intro/demo.md)
    + [Visite guidée de l’interface utilisateur](/help/tutorials/intro/user-interface-tour.md)
++ Fonctionnalités {#features}
+   + [Planification basée sur les objectifs](/help/tutorials/features/goal-based-planning.md)
