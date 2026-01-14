@@ -19,4 +19,4 @@ ht-degree: 23%
 
 Découvrez le workflow de Mix Modeler. Pour plus d’informations, consultez la documentation du workflow [Mix Modeler](https://experienceleague.adobe.com/fr/docs/mix-modeler/using/get-started/workflow).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424854?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440205?captions=fre_fr&learn=on&enablevpops)
