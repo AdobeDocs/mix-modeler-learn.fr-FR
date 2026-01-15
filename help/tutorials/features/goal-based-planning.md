@@ -1,14 +1,14 @@
 ---
-title: Planification basée sur les objectifs
+title: Planification Basée Sur Les Objectifs
 description: Découvrez comment utiliser la planification basée sur les objectifs dans Mix Modeler.
 role: Admin, Architect, Developer, Leader, User
 level: Beginner
 doc-type: Value Video
 hide: true
 hidefromtoc: true
-source-git-commit: 4cf4490922855f1942c54215ca710f7aee652ec1
+source-git-commit: 8233855d62cff9386cccda657ad9daa57b9f7faf
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Planification basée sur les objectifs
 
-Grâce à la fonction de planification basée sur les objectifs de Mix Modeler, vous pouvez planifier en fonction des objectifs de votre entreprise et pas seulement de votre budget. Vous pouvez allouer vos budgets de manière efficace sur l’ensemble des canaux et campagnes afin d’atteindre vos objectifs avec un retour sur investissement maximum. Pour plus d’informations, voir [Plans](https://experienceleague.adobe.com/fr/docs/mix-modeler/using/plans/overview){target="_blank"} dans la documentation de Mix Modeler.
+Grâce à la fonction de planification basée sur les objectifs de Mix Modeler, vous pouvez planifier en fonction des objectifs de votre entreprise et pas seulement de votre budget. Vous pouvez allouer vos budgets de manière efficace sur l’ensemble des canaux et campagnes afin d’atteindre vos objectifs avec un retour sur investissement maximum. Pour plus d’informations, voir [Plans](https://experienceleague.adobe.com/en/docs/mix-modeler/using/plans/overview){target="_blank"} dans la documentation de Mix Modeler.
 
 >[!SLIDE](goal-based-planning)
 
