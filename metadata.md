@@ -1,22 +1,24 @@
 ---
 cloud: Experience Cloud
 solution: Mix Modeler
+product_v2:
+  - id: b88c80e3-31df-4609-989d-d4dac0e6d973
 landing-page-name: mix-modeler
 landing-page-breadcrumb-title: Mix Modeler
 type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/mix-modeler-learn.fr-FR
 index: true
-source-git-commit: e3e99aa0385a603c59fe60c3a7f843061e27960c
+source-git-commit: 4a5a3e71c592eab661c28c2421138b29b7d16fc5
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: 70
+ht-degree: 74%
 
 ---
 
 
 # Métadonnées à usage interne
 
-Le fichier metadata.md comprend des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md du guide de l’utilisateur dans le référentiel. Si vous souhaitez modifier du contenu metadata.md pour n’importe quel guide de l’utilisateur, effectuez vos modifications dans n’importe quel fichier TOC.md.
+Le fichier metadata.md inclut des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md du guide utilisateur dans le référentiel. Si vous souhaitez modifier le contenu de metadata.md pour un guide utilisateur, faites-le dans n’importe quel fichier TOC.md.
 
-Consultez [Métadonnées](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html) pour obtenir une liste de valeurs valides pour **solution**, **produit** et **type**.
+Consultez [&#x200B; Métadonnées &#x200B;](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html) pour une liste des valeurs valides pour **solution**, **produit** et **type**
