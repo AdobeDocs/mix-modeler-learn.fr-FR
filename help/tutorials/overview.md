@@ -40,7 +40,7 @@ Adobe Mix Modeler aide les entreprises à mesurer, optimiser et planifier leurs 
 <tr>
   <td>
     <a href="intro/demo.md">
-      <img alt="Vignette du tutoriel « Démonstration de bout en bout »" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
+      <img alt="Vignette du tutoriel « Démonstration de bout en bout »" src="https://video.tv.adobe.com/v/3440796?captions=fre_fr&format=jpeg" />
     </a>
     <div>
       <a href="intro/demo.md">
@@ -53,7 +53,7 @@ Adobe Mix Modeler aide les entreprises à mesurer, optimiser et planifier leurs 
   </td>
   <td>
     <a href="intro/user-interface-tour.md">
-      <img alt="image miniature de la vidéo « Visite de l’interface utilisateur »" src="https://video.tv.adobe.com/v/3424851?format=jpeg" />
+      <img alt="image miniature de la vidéo « Visite de l’interface utilisateur »" src="https://video.tv.adobe.com/v/3452384?captions=fre_fr&format=jpeg" />
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
@@ -66,7 +66,7 @@ Adobe Mix Modeler aide les entreprises à mesurer, optimiser et planifier leurs 
   </td>
   <td>
     <a href="intro/user-workflow.md">
-      <img alt="image miniature du tutoriel « Workflow de l’utilisateur »" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+      <img alt="image miniature du tutoriel « Workflow de l’utilisateur »" src="https://video.tv.adobe.com/v/3440205?captions=fre_fr&format=jpeg" />
     </a>
     <div>
       <a href="intro/user-workflow.md">

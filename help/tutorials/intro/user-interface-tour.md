@@ -43,4 +43,4 @@ ht-degree: 46%
 
 Découvrez les principales fonctionnalités de Mix Modeler dans l’interface utilisateur. Pour plus d’informations, consultez le guide [&#128279;](https://experienceleague.adobe.com/fr/docs/mix-modeler/using/get-started/workflow).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452384?captions=fre_fr&learn=on&enablevpops)
